@@ -53,7 +53,7 @@ BANNER = """
 # Default configuration
 DEFAULT_CONFIG = {
     'mullvad': {
-        'account_number': '7996702030776812',
+        'account_number': 'YOUR_ACCOUNT_NUMBER_HERE',
         'rotation_interval': '300',
         'preferred_countries': 'us,ca,uk',
         'connection_timeout': '10'
